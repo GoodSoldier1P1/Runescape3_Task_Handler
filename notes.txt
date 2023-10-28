@@ -1,0 +1,149 @@
+Input:
+
+Would you like to choose your next task? (Yes or No): 
+
+
+Slayer Tasks:
+
+'Melee Training', 
+'Range', 
+'Magic', 
+'Prayer', 
+'Necro', 
+'Summoning', 
+'Farming', 
+'Herb', 
+'Craftin', 
+'Blacksmithing', 
+'Mining', 
+'Fishing', 
+'Ancient Magick', 
+'Curses'
+
+
+Prif!:
+Plague's End!!! Do It Now!
+
+Unlock Invention:
+Step:
+    '80 Smithing - If Finished, Do It Again',
+    '80 Crafting',
+    '80 Divination'
+
+
+Combat:
+        'Melee', 
+        'Ranged', 
+        'Magic', 
+        'Necro', 
+        'Ancient Magick', 
+        'Curses', 
+    
+Skills:
+        'Prayer', 
+        'Summoning - farm it yourself', 
+        'Farming', 
+        'Herblore', 
+        'Crafting - Farm it yourself', 
+        'Blacksmithing', 
+        'Mining', 
+        'Fishing', 
+
+Mini-Games:
+
+Combat:
+
+        'Barbarian Assault', 
+        'Barrows', 
+        'Burgh de Rott Ramble', 
+        'Castle Wars', 
+        'Clan Wars', 
+        'Conquest', 
+        'Dominion Tower', 
+        'Fist of Guthix', 
+        'Mage Arena', 
+        'Pest Control', 
+        'Soul Wars', 
+        'Temple Trekking', 
+        'TzHaar Fight Cave', 
+        'TzHaar Fight Pit', 
+
+Skilling:
+
+        'All Fired Up', 
+        'Blast Furnace', 
+        'Brimhaven Agility Arena', 
+        'Fishing Trawler', 
+        'Flash Powder Factory', 
+        'Gnome Ball', 
+        'Gnome Restaurant', 
+        'Great Orb Project', 
+        'Impetuous Impulses', 
+        'Mage Training Arena', 
+        'Pyramid Plunder', 
+        'Ranging minigame', 
+        'Sorceress's Garden', 
+        'Trouble Brewing', 
+        'Vinesweeper', 
+
+Combat And Skilling:
+
+        'Shades of Mort'ton', 
+        'Stealing Creation', 
+        'Tai Bwo Wannai Cleanup', 
+
+Misc:
+
+        'Burthorpe Games Room', 
+        'Cabbage Facepunch Bonanza', 
+        'Rogue Trader', 
+
+
+Quest Lines:
+        'The Death of Chivalry': 'False',
+        'New Foundations (Full)': 'False',
+        'Rune Memories': 'False',
+        'Bringing Home the Bacon' : 'False',
+        'Broken Home': 'False',
+        'Diamond in the Rough': 'False',
+        'Missing, Presumed Death' : 'False',
+        'Once Upon a Time in Giinor': 'False',
+        'One Piercing Note': 'False',
+        'Rage and Bone minigame': 'False',
+        'Rune Mysteries': 'False',
+        'Stolen Hearts': 'False',
+        'Tower of Life': 'False',
+        'Biohazard': 'False',
+        'Call of teh Ancestors': 'False',
+        'Dwarf Cannon': 'False',
+        'Eagles' Peak': 'False',
+        'Earnest the Chicken': 'False',
+        'Fur 'n Seek': 'False',
+        'Gertrude's Cat' : 'False',
+        'Murder Mystery': 'False',
+        'Murder on the Border': 'False',
+        'Myths of the White Lan': 'False',
+        'Observatory Quest' : 'False',
+        'Perils of Ice Mountain, : 'False',
+        'Priest in Peril' : 'False',
+        'Recruitment Drive' : 'False',
+        'A Shadow over Ashdale' : 'False',
+        'Sheep Herder' : 'False',
+        'Shield of Arrav' : 'False',
+        'The Tale of the Muspah, : 'False',
+        'Violet is Blue Too' : 'False',
+        'What's Mine is Yours' : 'False',
+        'Buyers and Cellars' : 'False',
+        'Chef's Assistant' : 'False',
+        'Gunnar's Ground': 'False',
+        'Heartstealer': 'False',
+        'The Jack of Spades': 'False',
+        'Let Them Eat Pie' : 'False',
+        'Nature Spirit' : 'False',
+        'Once Upon a Slime': 'False',
+        'Plage City': 'False',
+        'Rune Mythos' : 'False',
+        'Song from the Depths' : 'False',
+        'A Soul's Bane' : 'False',
+        'Swept Away': 'False',
+        'Wolf Whistle': 'False',
